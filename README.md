@@ -40,7 +40,6 @@ pip install -r requirements.txt
 
 4. Run the app locally:
 <pre><code>
-bash
 streamlit run app.py
 </code></pre>
 
