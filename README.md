@@ -25,24 +25,24 @@ Rice Moisture Predictor is a Streamlit web application for analyzing the moistur
 
 1. Clone this repo:
 
-<pre><code>```bash
+<pre><code>
 git clone https://github.com/yourusername/rice-moisture-analyzer.git
 cd rice-moisture-analyzer
-```</code></pre>
+</code></pre>
 2. Install requirements:
 
-<pre><code>```bash
+<pre><code>
 pip install -r requirements.txt
-```</code></pre>
+</code></pre>
 
 
 3. Ensure `moisture_model.pkl` is present in the app directory.
 
 4. Run the app locally:
 <pre><code>
-```bash
+bash
 streamlit run app.py
-```</code></pre>
+</code></pre>
 
 ---
 
@@ -60,9 +60,8 @@ streamlit run app.py
 Your CSV must include the following columns:
 
 <pre><code>
-```text
 freq[Hz], re:S11, im:S11, re:S21, im:S21
-```</code></pre>
+</code></pre>
 
 Typical frequency range: 8–12 GHz
 
@@ -81,13 +80,12 @@ Typical frequency range: 8–12 GHz
 See `requirements.txt` for the full list. Key packages:
 
 <pre><code>
-```text
 streamlit
 pandas
 numpy
 plotly
 joblib
-```</code></pre>
+</code></pre>
 
 ---
 
