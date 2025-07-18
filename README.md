@@ -18,7 +18,7 @@ Rice Moisture Predictor is a Streamlit web application for analyzing the moistur
 
 ### Option 1: Online (Recommended)
 
-- Hosted on Streamlit Community Cloud (replace with your app link)
+- Hosted on Streamlit Community Cloud ((https://gdg9cckplmw8netgcsg5h3.streamlit.app/))
 - No installation required—just upload your RF data CSV
 
 ### Option 2: Local Installation
