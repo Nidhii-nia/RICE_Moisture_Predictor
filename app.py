@@ -39,7 +39,7 @@ GRADING_TABLE = {
         "Very high risk of mold, mycotoxins, and pathogenic bacteria; not safe."
     ],
     "Recommended Use": [
-        "Ideal for long-term storage, seeds",
+        "Ideal for long-term storage",
         "General market storage/sale",
         "Short-term storage",
         "Only for rapid turnover",
